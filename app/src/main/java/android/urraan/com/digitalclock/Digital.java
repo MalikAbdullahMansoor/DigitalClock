@@ -53,7 +53,7 @@ Context context;
              //   ChangeColor();
             }
         });
-//Toast.makeText
+
         }
 
   public void ChangeColor()
